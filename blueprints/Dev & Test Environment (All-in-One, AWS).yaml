@@ -2,6 +2,7 @@
 spec_version: 1
 kind: blueprint
 
+
 metadata:
   description: >
     A simple multi-tier application deployed on a single EC2 instance.
