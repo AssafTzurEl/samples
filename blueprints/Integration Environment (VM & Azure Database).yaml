@@ -7,6 +7,7 @@ metadata:
     Java application with a managed Azure database deployed with TerraForm.
 clouds:
   - azure: westeurope
+  
 
 # These are the blueprint parameters and their default values.
 # The values can be changed when creating a sandbox based on this
